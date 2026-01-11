@@ -5,7 +5,8 @@ day1
 
 TAB+CTRL更换模式
 
-![image-20260111192538997](C:\Users\A2278\AppData\Roaming\Typora\typora-user-images\image-20260111192538997.png)
+<img width="702" height="510" alt="image" src="https://github.com/user-attachments/assets/51142ac8-c085-4028-8e0f-42f3765a84c1" />
+
 
 G移动方块
 
@@ -16,6 +17,6 @@ ALT+Z透视
 Z切换渲染模式
 
 SHIFT+R添加环切
-
-![杯子](C:\Users\A2278\Desktop\BLEND\杯子.png)
+·
+![Uploading 杯子.png…]()
 
