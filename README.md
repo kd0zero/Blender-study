@@ -17,6 +17,5 @@ ALT+Z透视
 Z切换渲染模式
 
 SHIFT+R添加环切
-·
-![Uploading 杯子.png…]()
 
+<img width="1920" height="1600" alt="杯子" src="https://github.com/user-attachments/assets/498847f9-69fa-40ad-a0ec-6d8b451e81b3" />
